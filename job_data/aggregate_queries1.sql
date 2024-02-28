@@ -1,12 +1,14 @@
 -- AGGREGATE QUERIES PRACTICE 
+
 /* Aggregate function is used to perfom a calculation on a set of 
 values and returns a single value as the result.
+
 These functions operate on groups of rows and often used with the
 'GROUP BY' clause to aggregate data across multiple rows into a
-siingle result. */
+single result. */
 
 
-
+-- use tech_data query is written to access the tech_data database for analysing purpose.
 use tech_data
 
 -- (1) Calculating the average salary for all jobs.
